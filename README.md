@@ -1,2 +1,2 @@
-# karyawan
- sistem informasi
+# Karyawan
+ 
